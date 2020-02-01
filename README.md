@@ -1,2 +1,2 @@
-# sudoku-master
-Solves a Sudoku board using the backtracking algorithm.
+# Sudoku Master
+Implementation of the backtracking algorithm to solve a given Sudoku board.
